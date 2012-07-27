@@ -1,7 +1,7 @@
 var configFilePath = "./evaluator-config";
 if(process.argv[2]) {
   configFilePath = process.argv[2];
-  console.log("Configuring collector with \""+configFilePath+"\"");
+  console.log("Configuring evaluator with \""+configFilePath+"\"");
 }
 
 var options = require(configFilePath),
