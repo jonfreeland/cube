@@ -13,6 +13,8 @@
     "pegjs": "0.6.2",
     "vows": "0.5.11",
     "websocket": "1.0.3",
-    "websocket-server": "1.4.04"
+    "websocket-server": "1.4.04",
+    "socket.io": ">= 0.9.9",
+    "socket.io-client": ">= 0.9.9"
   }
 }
